@@ -23,3 +23,7 @@ func printRandomString(length int) {
     log.Println(newRandomString)    
 }
 ```
+#### Example String
+```
+dtc5AQuWoGsZ4K6zK7zSwd9vNmj2G54nAv8TMCT4SLMpjUrZ8jB3VDsqhw0QeVw1
+```
